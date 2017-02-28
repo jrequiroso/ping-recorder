@@ -3,7 +3,7 @@
 
 	$now = date("Y-m-d H:i:s");
 	$local_ip = getHostByName(getHostName());
-	$ping_result = exec("ping -n 1 googlaasdasdase.com | FIND \"TTL=\"");
+	$ping_result = exec("ping -n 1 google.com | FIND \"TTL=\"");
 	$time = 0;
 	$host_ip = "";
 
