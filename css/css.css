@@ -1,0 +1,26 @@
+.container {
+	text-align: center; 
+}
+#chartContainer {
+	height: 400px; 
+	width: 100%;
+	padding-top: 20px;
+}
+.stats-table {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 25%;
+}
+.stats-table td {
+	padding: 5px;
+}
+.stats-table th {
+	padding: 5px;
+}
+
+.search-form {
+	margin-top: 20px;
+}
