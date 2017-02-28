@@ -5,7 +5,7 @@ A 5-minute ping recorder I made because I needed to show stats to PLDT. Made for
 - You must have apache/mysql installed on your computer
 
 ## Installation
-1. Pull Pinger code
+1. Pull/download Pinger code into your www/htdocs directory.
 2. Create a database named `pinger`
 3. Import pinger.sql into the database
 
@@ -15,6 +15,11 @@ A 5-minute ping recorder I made because I needed to show stats to PLDT. Made for
 
 ## Sample Output
 ![Alt](http://i.imgur.com/TrOFkKZ.png "Sample output of index page.")
+
+## Technologies used:
+1. PHP/MySQL
+2. JQuery
+3. CanvasJS
 
 ## Todo:
 1. Make version for Mac
